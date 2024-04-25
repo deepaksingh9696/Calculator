@@ -1,1 +1,1 @@
-Deepak responsive Calculator and 
+Deepak responsive Calculator
